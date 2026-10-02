@@ -8,10 +8,10 @@ Java solutions for the lab tasks of **CSE221: Algorithms** at BRAC University, S
 |-----|-------|--------|
 | Lab 1 | Introduction and Sorting Algorithms | [Lab-1](Lab-1) |
 | Lab 2 | Two Pointers | [Lab-2](Lab-2) |
-| Lab 3 | Coming soon | - |
+| Lab 3 | Coming soon | -- |
 | Lab 4 | Graph Theory | [Lab-4 Graph Theory](Lab-4%20Graph%20Theory) |
 | Lab 5 | Graph Traversal | Coming soon |
-| Lab 6 | Coming soon | - |
+| Lab 6 | Coming soon | Coming soon |
 
 Each lab folder contains one `.java` file per problem (e.g. `Problem_A_Odd_or_Even.java`).
 
