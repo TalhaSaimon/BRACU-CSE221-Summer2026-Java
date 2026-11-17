@@ -2,7 +2,7 @@
 
 Java solutions for the lab tasks of **CSE221: Algorithms** at BRAC University, Summer 2026.
 
-📺 **YouTube:** [My Channel Talha Saimon](https://www.youtube.com/@talhasaimon)
+📺 **YouTube:** [My Channel Link](https://www.youtube.com/@talhasaimon)
 
 ## Contents
 
